@@ -4,3 +4,4 @@ Modified in master branch.
 M in local first branch.
 Modify online in master branch.
 online modification again to see if the local changes can be pushed or not.
+Modify locally.
