@@ -1,1 +1,2 @@
 an other test file.
+Modified in master branch.
