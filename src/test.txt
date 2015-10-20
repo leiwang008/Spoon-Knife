@@ -2,3 +2,4 @@ an other test file.
 Modify in first branch.
 Modified in master branch.
 M in local first branch.
+Modify online in master branch.
